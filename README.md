@@ -62,3 +62,11 @@ Offset values are derived from:
 | storage.bin | 0x210000 (2162688) | factory offset + factory size (0x10000 + 2M) |
 
 If `partitions.csv` changes, update the offsets accordingly.
+
+## Third-party components
+
+This project uses [ESP Web Tools](https://github.com/esphome/esp-web-tools) by Open Home Foundation, licensed under the Apache License 2.0.
+
+## License
+
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for details.
