@@ -1,6 +1,6 @@
 {
   "name": "R2P2-ESP32",
-  "version": "1.0.0",
+  "version": "0.2.10",
   "home_assistant_domain": "esphome",
   "new_install_prompt_erase": true,
   "builds": [
